@@ -15,13 +15,13 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Contenidos
 
 - [¿Qué es Tortuga?](#about)
 - [¡Empecemos!](#getting_started)
 - [Iniciar los proyectos](#usage)
 - [Tecnologías usadas](#built_using)
-- [Authors](#authors)
+- [Autores](#authors)
 - [Agradecimientos](#acknowledgement)
 
 ## 🧐 ¿Qué es Tortuga? <a name = "about"></a>
@@ -64,7 +64,7 @@ python Tortoise.py
 
 - [Python](https://www.python.org/) - Lenguaje de programación.
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Autores <a name = "authors"></a>
 
 - Enzzo - Creación del archivo Turtle.
 - [@Marfullsen](https://github.com/Marfullsen) - Creación del archivo Tortoise.
